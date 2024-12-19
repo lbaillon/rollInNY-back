@@ -139,7 +139,7 @@
     "address": "Liberty Island, New York, NY 10004",
     "overview": "Although movies are rarely filmed in the Statue of Liberty, it has become a pivotal tool for directors to establish their stories on the big screen. As both one of the most recognizable movie locations in New York City (and a historical American landmark), the fascination with the Statue of Liberty is evident by its millions of annual visitors.",
     "placePicture": "https://res.cloudinary.com/dtkac5fah/image/upload/v1733503316/nric1z5bq0xu0xjynpn3.jpg",
-    "coords": { "lat": -73.9799772, "lon": -74.0454436 },
+    "coords": { "lat": 40.6893124, "lon": -74.0456001 },
     "moviesList": [871, 2978, 435, 634649],
     "approved": true
   },
@@ -238,8 +238,89 @@
     "address": "175 5th Ave, New York, NY 10010",
     "overview": "The Flatiron Building, originally the Fuller Building,[6] is a 22-story,[7] 285-foot-tall (86.9 m) steel-framed triangular building at 175 Fifth Avenue in the Flatiron District neighborhood of Manhattan in New York City. Designed by Daniel Burnham and Frederick P. Dinkelberg, and sometimes called, in its early days, Burnham's Folly, it was opened in 1902. The building sits on a triangular block formed by Fifth Avenue, Broadway, and East 22nd Street—where the building's 87-foot (27 m) back end is located—with East 23rd Street grazing the triangle's northern (uptown) peak. The name Flatiron derives from its triangular shape, which recalls that of a cast-iron clothes iron.",
     "placePicture": "https://res.cloudinary.com/dtkac5fah/image/upload/v1733502718/ai5plwfgt2acvfrqxdwp.jpg",
-    "coords": { "lat": 40.7061033, "lon": -74.0088097 },
+    "coords": { "lat": 40.7410605, "lon": -73.9922735 },
     "moviesList": [557, 558, 559, 929, 27022],
+    "approved": true
+  },
+  {
+    "title": "The Mall and Literary Walk",
+    "address": "The Mall, New York, NY 10022",
+    "overview": "Statues of Shakespeare, Robert Burns and other writers line this wide promenade, shaded by elm trees.",
+    "placePicture": "https://res.cloudinary.com/dtkac5fah/image/upload/v1734520750/dqiwk5bldb11mmpskdmc.webp",
+    "coords": { "lat": 40.7711984, "lon": -73.9734033 },
+    "moviesList": [639, 120102, 7303, 1903],
+    "approved": true
+  },
+  {
+    "title": "Bethesda Terrace and Fountain",
+    "address": "Bethesda Terrace, New York, NY 10024",
+    "overview": "Bethesda Terrace and Fountain are two architectural features overlooking the southern shore of the Lake in New York City's Central Park. The fountain, with its Angel of the Waters statue, is located in the center of the terrace.",
+    "placePicture": "https://res.cloudinary.com/dtkac5fah/image/upload/v1734521520/zzhshrznm07taa96koxi.webp",
+    "coords": { "lat": 40.7729615, "lon": -73.9723519 },
+    "moviesList": [24428, 245891, 772, 10518, 177],
+    "approved": true
+  },
+  {
+    "title": "Bow Bridge",
+    "address": "Bow Bridge, New York, NY 10024",
+    "overview": "The Bow Bridge is a cast iron bridge located in Central Park, New York City, crossing over the Lake and used as a pedestrian walkway. It is decorated with an interlocking circles banister, with eight planting urns on top of decorative bas-relief panels. Intricate arabesque elements and volutes can be seen underneath the span arch. Its 87-foot-long (27 m) span is the longest of the park's bridges, though the balustrade is 142 feet (43 m) long. While other bridges in Central Park are inconspicuous, the Bow Bridge is made to stand out from its surroundings. The Bow Bridge is also the only one of Central Park's seven ornamental iron bridges that does not traverse a bridle path.",
+    "placePicture": "https://res.cloudinary.com/dtkac5fah/image/upload/v1734521849/mamw87yjlqc9a07plavu.webp",
+    "coords": { "lat": 40.7757544, "lon": -73.9743533 },
+    "moviesList": [696, 559, 4564, 64682],
+    "approved": true
+  },
+  {
+    "title": "Conservatory Water",
+    "address": "E 72nd St, New York, NY 10021",
+    "overview": "Conservatory Water is named for a glass-house for tropical plants and was intended to be entered from Fifth Avenue by a grand stair. The shore of Conservatory Water contains the Kerbs Memorial Boathouse, where patrons can rent and navigate radio-controlled model boats, as well as bronze sculptures.",
+    "placePicture": "https://res.cloudinary.com/dtkac5fah/image/upload/v1734522738/ygak7tolnr3u00rwdsdz.webp",
+    "coords": { "lat": 40.7742331, "lon": -73.9696896 },
+    "moviesList": [10137, 25189, 10518, 913, 16553],
+    "approved": true
+  },
+  {
+    "title": "Tavern on the Green",
+    "address": "W 67th St, New York, NY 10023",
+    "overview": "Tavern on the Green is an American cuisine restaurant in Central Park in Manhattan, New York City, near the intersection of Central Park West and West 66th Street on the Upper West Side. The restaurant, housed in a former sheepfold, has been operated by Jim Caiola and David Salama since 2014.",
+    "placePicture": "https://res.cloudinary.com/dtkac5fah/image/upload/v1734523364/sq1hwsvs6jgnocj5uoiw.webp",
+    "coords": { "lat": 40.7722596, "lon": -73.9825605 },
+    "moviesList": [620, 58224, 10673],
+    "approved": true
+  },
+  {
+    "title": "Apollo Theater",
+    "address": "253 W 125th St, New York, NY 10027",
+    "overview": "The Apollo Theater (formerly the Hurtig & Seamon's New Theatre; also Apollo Theatre or 125th Street Apollo Theatre) is a multi-use theater at 253 West 125th Street in the Harlem neighborhood of Upper Manhattan in New York City. It is a popular venue for black American performers and is the home of the TV show Showtime at the Apollo. The theater, which has approximately 1,500 seats across three levels, was designed by George Keister with elements of the neoclassical style. The facade and interior of the theater are New York City designated landmarks and are listed on the National Register of Historic Places. The nonprofit Apollo Theater Foundation (ATF) operates the theater, as well as two smaller auditoriums at the Victoria Theater and a recording studio at the Apollo.",
+    "placePicture": "https://res.cloudinary.com/dtkac5fah/image/upload/v1734527085/umck08ujjtazhq0mvf4k.webp",
+    "coords": { "lat": 40.810018, "lon": -73.9526309 },
+    "moviesList": [1883, 1125],
+    "approved": true
+  },
+  {
+    "title": "The Cotton Club",
+    "address": "656 W 125th St, New York, NY 10027",
+    "overview": "The Cotton Club was a 20th-century nightclub in New York City. It was located on 142nd Street and Lenox Avenue from 1923 to 1936, then briefly in the midtown Theater District until 1940. The club operated during the United States' era of Prohibition and Jim Crow era racial segregation. Black people initially could not patronize the Cotton Club, but the venue featured many of the most popular black entertainers of the era, including musicians Fletcher Henderson, Duke Ellington, Jimmie Lunceford, Chick Webb, Louis Armstrong, Count Basie, Fats Waller, Willie Bryant; vocalists Adelaide Hall, Ethel Waters, Cab Calloway, Bessie Smith, Lillie Delk Christian, Aida Ward, Avon Long, the Dandridge Sisters, the Will Vodery choir, The Mills Brothers, Nina Mae McKinney, Billie Holiday, Midge Williams, Lena Horne, and dancers such as Katherine Dunham, Bill Robinson, The Nicholas Brothers, Charles 'Honi' Coles, Leonard Reed, Stepin Fetchit, the Berry Brothers, The Four Step Brothers, Jeni Le Gon and Earl Snakehips Tucker.",
+    "placePicture": "https://res.cloudinary.com/dtkac5fah/image/upload/v1734527522/pxsezgu9dznzx0wdl6xt.webp",
+    "coords": { "lat": 40.8176161, "lon": -73.9628724 },
+    "moviesList": [2148, 9085],
+    "approved": true
+  },
+  {
+    "title": "Brooklyn Heights Promenade",
+    "address": "Montague St & PierrePont Pl, Brooklyn, NY 11201",
+    "overview": "The Brooklyn Heights Promenade, also called the Esplanade, is a 1,826-foot (557 m)-long platform and pedestrian walkway cantilevered over the Brooklyn-Queens Expressway (Interstate 278) in Brooklyn Heights, Brooklyn, New York City, United States. With views of Lower Manhattan's skyline and the New York Harbor, it came about as the byproduct of competing proposals for the highway's route that were resolved in the midst of World War II. Actual construction came after the war. As a structure built over a roadway, the Promenade is owned by the NYCDOT and is not considered a park; however, NYC Parks maintains the entire Promenade.",
+    "placePicture": "https://res.cloudinary.com/dtkac5fah/image/upload/v1734527920/wt9dskuusntmhox5dhag.webp",
+    "coords": { "lat": 40.6979727, "lon": -73.9994843 },
+    "moviesList": [703, 257211, 2039],
+    "approved": true
+  },
+  {
+    "title": "Barclays Center",
+    "address": "620 Atlantic Ave, Brooklyn, NY 11217",
+    "overview": "Barclays Center is a multi-purpose indoor arena in the New York City borough of Brooklyn. The arena is home to the Brooklyn Nets of the National Basketball Association and the New York Liberty of the Women's National Basketball Association. The arena also hosts concerts, conventions and other sporting and entertainment events.",
+    "placePicture": "https://res.cloudinary.com/dtkac5fah/image/upload/v1734528466/frakxduxae5lkzo0gnpu.webp",
+    "coords": { "lat": 40.6835118, "lon": -73.9764399 },
+    "moviesList": [312221, 402900],
     "approved": true
   }
 ]
