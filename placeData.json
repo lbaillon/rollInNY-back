@@ -1,0 +1,245 @@
+[
+  {
+    "title": "Coney Island",
+    "address": "Coney Island, Brooklyn, NY",
+    "overview": "From The Warriors (1979) to the final battle in Spider-Man: Homecoming (2017), Coney Island has been a popular filming location in New York City for decades. The instantly recognizable boardwalk and Luna theme park help establish a scene immediately.",
+    "placePicture": "https://res.cloudinary.com/dtkac5fah/image/upload/v1733504158/pwvu0jdr4wd1vnmhqm0j.jpg",
+    "coords": { "lat": 40.5772867, "lon": -73.9719103 },
+    "moviesList": [11474, 41154, 167073, 429189, 315635],
+    "approved": true
+  },
+  {
+    "title": "Puck Building",
+    "address": "295 Lafayette St, New York, NY 10012",
+    "overview": "The bottom three floors of the Puck Building, named after Puck from Shakespeare’s A Midsummer Night’s Dream, are the New York City flagship store of REI. However, on the big screen, the character Grace Adler from Will & Grace worked and where Harry & Sally from the movie When Harry Met Sally… (1989) fought and (spoiler!) eventually said their first I love yous.",
+    "placePicture": "https://res.cloudinary.com/dtkac5fah/image/upload/v1733504159/qumaqrieo8bl53jc1nro.jpg",
+    "coords": { "lat": 40.7247049, "lon": -73.9953572 },
+    "moviesList": [639, 32059, 8509],
+    "approved": true
+  },
+  {
+    "title": "The Unisphere",
+    "address": "Flushing Meadows-Corona Park, Corona, NY 11368",
+    "overview": "The Unisphere is a 140-foot stainless steel globe in Flushing Meadows Corona Park. Originally built as part of the 1964 World Fair, it’s become a famous filming location in New York City. Several action movies have been filmed at the sphere (Men in Black, Iron Man 2, Captain America: The First Avenger) as well as a series of hip-hop music videos, including “Flava in Ya Ear” by Craig Mack and “Mo Money Mo Problems” by the Notorious B.I.G. both feature the Unisphere.",
+    "placePicture": "https://res.cloudinary.com/dtkac5fah/image/upload/v1733504159/x1j8aulaymc2unoomznm.jpg",
+    "coords": { "lat": 40.7463889, "lon": -73.8450676 },
+    "moviesList": [4105, 607, 10138, 1771, 315635],
+    "approved": true
+  },
+  {
+    "title": "Columbia University",
+    "address": "116th and Broadway, New York, NY 10027",
+    "overview": "Columbia University has had world-changing alums walk its campus, like Langston Hughes, Amelia Earhart, and Barack Obama, to name a few. It’s also been one of the most iconic movie locations in NYC, thanks largely to the Low Memorial Library at the center of the school, which has been featured in films like Spider-Man (2002).",
+    "placePicture": "https://res.cloudinary.com/dtkac5fah/image/upload/v1733504159/rniyuftpsu7wbj0dusai.jpg",
+    "coords": { "lat": 40.8075355, "lon": -73.9625727 },
+    "moviesList": [557, 620, 8488, 5143],
+    "approved": true
+  },
+  {
+    "title": "The Copacabana",
+    "address": "625 W 51st St, New York, NY 10019",
+    "overview": "Famous for once being owned and operated by members of the American Mafia, the Copacabana’s infamy is unrivaled in New York City. The nightclub is best known for Martin Scorcese’s masterful one-shot take of Henry Hill entering the Copacabana in Goodfellas (1990). The club has changed locations numerous times but is currently in Times Square.",
+    "placePicture": "https://res.cloudinary.com/dtkac5fah/image/upload/v1733504159/zkbhqanakg0mexrjzr4c.jpg",
+    "coords": { "lat": 40.7672535, "lon": -73.9953761 },
+    "moviesList": [1051, 1578, 769, 6075, 490132],
+    "approved": true
+  },
+  {
+    "title": "Katz’s Delicatessen",
+    "address": "205 E Houston St, New York, NY 10002",
+    "overview": "One of the most iconic restaurants in New York City, Katz’s Delicatessen is a 136-year-old deli famous for its rib-sticking pastrami on rye. The restaurant’s walls are adorned with pictures of celebrities who couldn’t resist the deli’s delights. The restaurant has had some Hollywood screen time, most famously for a (non-PG) scene in When Harry Met Sally… (1989) that the restaurant has commemorated with a sign above the seat where Meg Ryan sat while filming.",
+    "placePicture": "https://res.cloudinary.com/dtkac5fah/image/upload/v1733504159/dykmtaqthxeztsvuvncv.jpg",
+    "coords": { "lat": 40.722233, "lon": -73.987429 },
+    "moviesList": [639, 9366, 34167, 2001, 4523],
+    "approved": true
+  },
+  {
+    "title": "7B Horseshoe Bar AKA Vazacs",
+    "address": "108 Avenue B, New York, NY 10009",
+    "overview": "7B Horseshoe Bar AKA Vazacs is a beloved 100+ year-old East Village dive bar with quite a few appearances on the big screen. It’s where Carrie gets arrested for smoking pot in Sex and the City and Luke Cage’s bar in the Marvel Cinematic Universe. There are too many iconic scenes to list!",
+    "placePicture": "https://res.cloudinary.com/dtkac5fah/image/upload/v1733504159/ik1kyxf9viem6wfxbfzs.jpg",
+    "coords": { "lat": 40.7250535, "lon": -73.9814144 },
+    "moviesList": [240, 9671, 9029, 198277, 308531],
+    "approved": true
+  },
+  {
+    "title": "Guggenheim Museum",
+    "address": "1071 5th Ave, New York, NY 10128",
+    "overview": "Thanks to its unique architecture, the Guggenheim Museum is among the most famous movie locations in NYC. The art museum boasts nearly one million visitors a year, and since it’s directly across the street from Central Park, countless other visitors get to see it from the outside. The spiraling, all-white interior has seen a few creative chase scenes, like in Men in Black (1997).",
+    "placePicture": "https://res.cloudinary.com/dtkac5fah/image/upload/v1733504159/vqlc6uvj2de7crqkfc25.jpg",
+    "coords": { "lat": 40.7829796, "lon": -73.9589706 },
+    "moviesList": [28289, 607, 11157, 196867, 13477],
+    "approved": true
+  },
+  {
+    "title": "Firehouse, Hook & Ladder Company 8",
+    "address": "14 N Moore St, New York, NY 10013",
+    "overview": "Firehouse, Hook & Ladder Company 8 has limited appearances on the big screen, but it’s had one that really counts. It’s home to Ghostbusters Headquarters! This iconic NYC filming location was threatened with closure in 2011, but a public campaign to save it worked, and it’s still home to a team of first responders today (so get out of the way if you hear sirens!).",
+    "placePicture": "https://res.cloudinary.com/dtkac5fah/image/upload/v1733504511/cnoklwfghiyl3ub5wmjc.jpg",
+    "coords": { "lat": 40.719559, "lon": -74.0066219 },
+    "moviesList": [620, 2978, 8488],
+    "approved": true
+  },
+  {
+    "title": "Washington Square Park",
+    "address": "Washington Square, New York, NY 10012",
+    "overview": "One of the most famous parks in New York City, Washington Square Park, is home to the famous Washington Square Arch. Hollywood has used the park to establish scenes. The park has been the site of a handful of action scenes in movies like I Am Legend (2007) and Avengers: Infinity War (2018).",
+    "placePicture": "https://res.cloudinary.com/dtkac5fah/image/upload/v1733504593/gwgnhk6evq0rblv8aa7h.jpg",
+    "coords": { "lat": 40.7308838, "lon": -73.997332 },
+    "moviesList": [2978, 14291, 6479, 299536, 614409],
+    "approved": true
+  },
+  {
+    "title": "The American Museum of Natural History",
+    "address": "200 Central Park W, New York, NY 10024",
+    "overview": "The American Museum of Natural History (AMNH) needs no introduction; it is famous thanks to the movie Night at the Museum (2006), where Ben Stiller plays a night-time security guard. Although the movie wasn’t filmed inside the actual museum, the exterior, exhibits, and context all reflect the real AMNH. They even offer a self-guided Night at the Museum tour for those interested.",
+    "placePicture": "https://res.cloudinary.com/dtkac5fah/image/upload/v1733504500/fokqsrruae7xwf5qy9cn.jpg",
+    "coords": { "lat": 40.7813241, "lon": -73.9739882 },
+    "moviesList": [608, 350, 1593, 98566],
+    "approved": true
+  },
+  {
+    "title": "New York Public Library – Stephen A. Schwarzman Building",
+    "address": "476 5th Ave, New York, NY 10018",
+    "overview": "When it opened to the public in 1911, the New York Public Library was officially the largest marble building ever built in the country. In its 100+ years of existence, the monolithic library has become one of the most iconic movie locations in New York City.",
+    "placePicture": "https://res.cloudinary.com/dtkac5fah/image/upload/v1733504371/drosz7fo5vb21ciqhqif.jpg",
+    "coords": { "lat": 40.7531823, "lon": -73.9822534 },
+    "moviesList": [1685, 557, 435, 12096, 4564],
+    "approved": true
+  },
+  {
+    "title": "Brooklyn Bridge",
+    "address": "Brooklyn Bridge, New York, NY 10038",
+    "overview": "The Brooklyn Bridge adorns New York City’s epic skyline and is an iconic symbol of the Big Apple. Some might be shocked to learn how many movies have been filmed at the Brooklyn Bridge, but its instantly recognizable structure makes it hard to beat. The Brooklyn Bridge scene in I Am Legend (2007) cost $5 million to shoot and is one of the most iconic movie scenes filmed in NYC!",
+    "placePicture": "https://res.cloudinary.com/dtkac5fah/image/upload/v1733504319/gdsw9vzliykplskkng9o.jpg",
+    "coords": { "lat": 40.7060855, "lon": -73.9968643 },
+    "moviesList": [11232, 6479, 4564, 7191, 324552],
+    "approved": true
+  },
+  {
+    "title": "Empire State Building",
+    "address": "20 W 34th St., New York, NY 10001",
+    "overview": "As one of the premier movie locations in New York City, the Empire State draws its fair share of tourists climbing to the top of its observatory for a photo with King Kong. Over 100 movies have been filmed at the Empire State Building over nearly a century.",
+    "placePicture": "https://res.cloudinary.com/dtkac5fah/image/upload/v1733504240/a8rweknqpjd4dxdz3md4.jpg",
+    "coords": { "lat": 40.7484405, "lon": -73.9856644 },
+    "moviesList": [244, 254, 8536, 602],
+    "approved": true
+  },
+  {
+    "title": "Radio City Music Hall",
+    "address": "1260 6th Ave, New York, NY 10020",
+    "overview": "The neon lights outside of Radio City Music Hall are as memorable as anything you’ll see in New York City, making it one of the premier movie locations in NYC. The ability to set context in a scene is essential, and Radio City Music Hall does that for viewers instantly. All it takes is a second on the glowing marquee, and immediately, boom, you’re in the middle of bustling Manhattan.",
+    "placePicture": "https://res.cloudinary.com/dtkac5fah/image/upload/v1733503576/gnkqpn5zuuphjxc69psw.jpg",
+    "coords": { "lat": 40.759976, "lon": -73.9799772 },
+    "moviesList": [238, 15739, 772, 11025],
+    "approved": true
+  },
+  {
+    "title": "The Statue of Liberty",
+    "address": "Liberty Island, New York, NY 10004",
+    "overview": "Although movies are rarely filmed in the Statue of Liberty, it has become a pivotal tool for directors to establish their stories on the big screen. As both one of the most recognizable movie locations in New York City (and a historical American landmark), the fascination with the Statue of Liberty is evident by its millions of annual visitors.",
+    "placePicture": "https://res.cloudinary.com/dtkac5fah/image/upload/v1733503316/nric1z5bq0xu0xjynpn3.jpg",
+    "coords": { "lat": -73.9799772, "lon": -74.0454436 },
+    "moviesList": [871, 2978, 435, 634649],
+    "approved": true
+  },
+  {
+    "title": "The Plaza Hotel",
+    "address": "768 5th Ave, New York, NY 10019",
+    "overview": "A premier New York City institution and world-famous hotel, The Plaza has been featured in countless classic films. F. Scott Fitzgerald, The Beatles, Tommy Hilfiger, and Simon Fuller have all stayed at the Plaza, adding to its lore as an opulent playground, and movies like Home Alone 2: Lost in New York (1992) have been able to capitalize on its luxurious reputation.",
+    "placePicture": "https://res.cloudinary.com/dtkac5fah/image/upload/v1733503255/mttmtgjiqhk7ygbzhthu.jpg",
+    "coords": { "lat": 40.7646318, "lon": -73.9743251 },
+    "moviesList": [213, 772, 10521, 64682],
+    "approved": true
+  },
+  {
+    "title": "The Rockefeller Center",
+    "address": "45 Rockefeller Plaza, New York, NY 10111",
+    "overview": "Home to late-night television programs like The Tonight Show Starring Jimmy Fallon and Late Night with Seth Meyers, the Rockefeller Center has also spent some time gracing the big screen (especially around the holiday season). It’s the place where (spoiler!) Kevin gets reunited with his mom at the end of Home Alone 2: Lost in New York (1992) and where Buddy goes ice skating in the movie Elf (2003)",
+    "placePicture": "https://res.cloudinary.com/dtkac5fah/image/upload/v1733503176/fowhveca0i9pillcfnpv.jpg",
+    "coords": { "lat": 40.7587402, "lon": -73.9786736 },
+    "moviesList": [772, 2022, 10719],
+    "approved": true
+  },
+  {
+    "title": "Grand Central Terminal",
+    "address": "89 E 42nd St, New York, NY 10017",
+    "overview": "New Yorkers won’t sporadically burst into a random dance routine at Grand Central Terminal (like in Friends with Benefits), but the train terminal sees crowds of up to 750,000 people daily! Hollywood has used the bustling station to help someone escape amidst the crowds, like in the movies Carlito’s Way (1993) and John Wick 3 (2019).",
+    "placePicture": "https://res.cloudinary.com/dtkac5fah/image/upload/v1733503095/xtxwztq6hw83bb9zfxea.jpg",
+    "coords": { "lat": 40.7533582, "lon": -73.9768041 },
+    "moviesList": [608, 9777, 24428, 458156],
+    "approved": true
+  },
+  {
+    "title": "The Metropolitan Museum of Art",
+    "address": "1000 5th Ave, New York, NY 10028",
+    "overview": "With over 2 million pieces of art spanning 5,000+ years, the Met is the largest museum in the country and the fifth largest museum in the world. Averaging 6 million visitors per year, it’s considered the most visited museum in New York City. The famous NYC museum has also had its fair share of screen time, and its beautiful exterior has been one of the staple movie locations in New York City. The interior has its merits, too, being the setting for the annual Met Gala. ",
+    "placePicture": "https://res.cloudinary.com/dtkac5fah/image/upload/v1733502888/il4u51ljecbj8syeltiz.jpg",
+    "coords": { "lat": 40.7794366, "lon": -73.963244 },
+    "moviesList": [639, 42314, 7303, 8488],
+    "approved": true
+  },
+  {
+    "title": "Times Square",
+    "address": "Times Square, Manhattan, NY 10036",
+    "overview": "Times Square is likely one of the first places your mind goes to when you think of New York City, which is why directors love filming there. The bright lights and bustling crowds make it instantly recognizable, becoming one of the most common filming locations in New York City.",
+    "placePicture": "https://res.cloudinary.com/dtkac5fah/image/upload/v1733502826/pnl7op7uphboojscihzw.jpg",
+    "coords": { "lat": 40.7579747, "lon": -73.9855426 },
+    "moviesList": [9671, 559, 6479, 1771],
+    "approved": true
+  },
+  {
+    "title": "Central Park",
+    "address": "Central Park, New York, NY",
+    "overview": "Central Park’s star power isn’t a mystery; its 843 acres brimming with diverse landscapes: rolling meadows, glittering lakes, iconic bridges, and towering trees have made it a treasured movie location. Directors love the park for rom-coms, thrillers, and even superhero flicks. Popular places like The Mall, Bethesda Terrace, and the Loeb Boathouse have kept Hollywood coming back time and time again.",
+    "placePicture": "https://res.cloudinary.com/dtkac5fah/image/upload/v1733502718/egtsfc30fzlq38hixwtr.jpg",
+    "coords": { "lat": 40.7888575, "lon": -73.9569545 },
+    "moviesList": [772, 24428, 10996, 324552],
+    "approved": true
+  },
+  {
+    "title": "Shakespeare Steps",
+    "address": "1163 Shakespeare Ave, Bronx, NY 10452",
+    "overview": "The Shakespeare Steps are a step street connecting Shakespeare and Anderson avenues at West 167th Street in the Highbridge neighborhood of the Bronx in New York City. They are located near the 167th Street station on the New York City Subway's 4 train.",
+    "placePicture": "https://res.cloudinary.com/dtkac5fah/image/upload/v1733502718/clipb6oeb2ymdzjfq3nt.jpg",
+    "coords": { "lat": 40.835789, "lon": -73.923586 },
+    "moviesList": [475557],
+    "approved": true
+  },
+  {
+    "title": "Yankee Stadium",
+    "address": "1 E 161st St, Bronx, NY 10451",
+    "overview": "Yankee Stadium is a baseball stadium located in the Bronx in New York City. It is the home field of Major League Baseball’s New York Yankees and New York City FC of Major League Soccer.",
+    "placePicture": "https://res.cloudinary.com/dtkac5fah/image/upload/v1733502718/ieflhiwxwj3l9rjp2nwg.jpg",
+    "coords": { "lat": 40.829484, "lon": -73.926416 },
+    "moviesList": [9506, 10390, 5560],
+    "approved": true
+  },
+  {
+    "title": "Chrysler Building",
+    "address": "405 Lexington Ave, New York, NY 10174",
+    "overview": "The Chrysler Building is an Art Deco skyscraper on the East Side of Manhattan in New York City, at the intersection of 42nd Street and Lexington Avenue in Midtown Manhattan. At 1,046 ft (319 m), it is the tallest brick building in the world with a steel framework. It was both the world's first supertall skyscraper and the world's tallest building for 11 months after its completion in 1930. As of 2019, the Chrysler is the 12th-tallest building in the city, tied with The New York Times Building.",
+    "placePicture": "https://res.cloudinary.com/dtkac5fah/image/upload/v1733502718/cddvjovgdmixexvdirg8.jpg",
+    "coords": { "lat": 40.7516208, "lon": -73.9780769 },
+    "moviesList": [557, 95, 1979],
+    "approved": true
+  },
+  {
+    "title": "Wall Street",
+    "address": "451 Wall St, New York, NY 10005",
+    "overview": "Wall Street is a street in the Financial District of Lower Manhattan in New York City. It runs eight city blocks between Broadway in the west and South Street and the East River in the east. The term Wall Street has become a metonym for the financial markets of the United States as a whole, the American financial services industry, New York–based financial interests, or the Financial District. Anchored by Wall Street, New York has been described as the world's principal fintech and financial center.",
+    "placePicture": "https://res.cloudinary.com/dtkac5fah/image/upload/v1733502718/nbgbttm6v8ieq7biiv44.jpg",
+    "coords": { "lat": 40.7061033, "lon": -74.0088097 },
+    "moviesList": [10673, 106646, 1359],
+    "approved": true
+  },
+  {
+    "title": "Flatiron Building",
+    "address": "175 5th Ave, New York, NY 10010",
+    "overview": "The Flatiron Building, originally the Fuller Building,[6] is a 22-story,[7] 285-foot-tall (86.9 m) steel-framed triangular building at 175 Fifth Avenue in the Flatiron District neighborhood of Manhattan in New York City. Designed by Daniel Burnham and Frederick P. Dinkelberg, and sometimes called, in its early days, Burnham's Folly, it was opened in 1902. The building sits on a triangular block formed by Fifth Avenue, Broadway, and East 22nd Street—where the building's 87-foot (27 m) back end is located—with East 23rd Street grazing the triangle's northern (uptown) peak. The name Flatiron derives from its triangular shape, which recalls that of a cast-iron clothes iron.",
+    "placePicture": "https://res.cloudinary.com/dtkac5fah/image/upload/v1733502718/ai5plwfgt2acvfrqxdwp.jpg",
+    "coords": { "lat": 40.7061033, "lon": -74.0088097 },
+    "moviesList": [557, 558, 559, 929, 27022],
+    "approved": true
+  }
+]
