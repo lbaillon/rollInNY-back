@@ -89,7 +89,7 @@ router.put("/likePlace/:userToken/:idPlace", async (req, res) => {
   }
 });
 
-// Route pour vérifier si un lieu est dans les favoris d'un utilisateur
+// Route pour vérifier si un lieu est dans les favoris d'un utilisateur, n'est pas utilisée à supprimer
 router.get('/isLiked/:userToken/:idPlace', async (req, res) => {
   try {
     const user = await User.findOne({ token: req.params.userToken });

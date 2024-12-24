@@ -3,13 +3,22 @@ var router = express.Router(); // Création d'un router express
 
 const User = require("../models/users"); // Import du modèle User
 const cloudinary = require("cloudinary").v2;
+
+//fs = module pour création de fichier/interagir avec le système de fichier de l'OS
 const fs = require("fs");
+
+//module pour gérer les chemins d'accès aux fichiers
 const path = require("path");
 
+
+//dirname = dossier executant le code
+//créé un chemin vers un dossier tmp au même niveau que le dossier d'execution du code
 const tempDir = path.join(__dirname, "../tmp");
+//si le dossier tmp n'existe pas alors on en créé un, sync bloque le code en attendant la création
 if (!fs.existsSync(tempDir)) {
   fs.mkdirSync(tempDir);
 }
+//tempDir n'est pas utilisé car utilisation de tempFilPath des uploaded pictures
 
 // Route pour obtenir les lieux favoris d'un utilisateur
 router.get("/places/:userToken", async (req, res) => {
@@ -30,6 +39,7 @@ router.get("/places/:userToken", async (req, res) => {
 // Route pour ajouter une photo sur un lieu aux favoris d'un utilisateur
 router.post("/pictures", async (req, res) => {
   try {
+    //vérifie si l'upload concerne une ou plusieurs photos, si plusieurs photos il prend que la dernière
     const photoFile = Array.isArray(req.files.photoFromFront)
       ? req.files.photoFromFront[req.files.photoFromFront.length - 1]
       : req.files.photoFromFront;
@@ -47,7 +57,7 @@ router.post("/pictures", async (req, res) => {
     // Construction sécurisée du dossier
     const folderPath = `usersPictures/${userToken}/${idPlace}`;
 
-    // Upload direct à Cloudinary
+    // Upload direct à Cloudinary, utilise le chemin temporaire tempFilPath d'express à la place de tmp
     const resultCloudinary = await cloudinary.uploader.upload(photoFile.tempFilePath, {
       folder: folderPath,
       format: "webp",
